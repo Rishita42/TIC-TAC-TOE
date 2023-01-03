@@ -6,6 +6,7 @@ This repository contains python based interactive Tic-Tac-Toe game.
 <p align="center">
 <img width=1000 src="/images/screenshot.png">
 
+
 </p>
 
 
